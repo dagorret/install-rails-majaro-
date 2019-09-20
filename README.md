@@ -1,0 +1,1 @@
+# Simple script for install ruby and rails in Manjaro
